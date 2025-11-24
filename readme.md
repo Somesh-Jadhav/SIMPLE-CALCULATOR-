@@ -1,10 +1,10 @@
-Simple Command-Line Calculator
+# Simple Command-Line Calculator
 
 Overview of the Project
 This project is a functional, command-line interface (CLI) calculator application built using Python. It allows users to perform the four fundamental arithmetic operations: addition, subtraction, multiplication, and division. The application is designed with modularity, clear user interaction, and robust input validation to ensure reliability.
 
 
-Features
+## Features
 •	Basic Arithmetic: Supports Addition (+), Subtraction (-), Multiplication (*), and Division (/).
 •	Input Validation: Automatically handles invalid (non-numeric) input by prompting the user to re-enter a valid number.
 •	Division by Zero Handling: Explicitly catches and reports a "Division by Zero" error instead of crashing.
@@ -12,12 +12,12 @@ Features
 •	User Menu: A clear, interactive menu guides the user through operation selection.
 
 
-Technologies/Tools Used
+## Technologies/Tools Used
 •	Programming Language: Python 3 (Tested with Python 3.8+)
 •	Version Control: Git
 
 
-Steps to Install & Run the Project
+## Steps to Install & Run the Project
 1.	Clone the Repository:
 2.	git clone [https://github.com/VITyarthi-Students/YourRepoName.git](https://github.com/VITyarthi-Students/YourRepoName.git)
 3.	cd YourRepoName
@@ -26,7 +26,7 @@ Steps to Install & Run the Project
 5.	python calculator.py
 
 
-Instructions for Testing
+## Instructions for Testing
 The application can be tested manually by interacting with the command-line interface:
 Test Case	Steps	Expected Result
 Addition	Select '1', enter 10 and 5	Output: 15.0
